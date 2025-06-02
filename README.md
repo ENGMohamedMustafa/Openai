@@ -444,5 +444,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Last Updated: June 2025*
 
 [⭐ Star this repository](https://github.com/ENGMohamedMustafa/openai-applications) | [🍴 Fork it](https://github.com/ENGMohamedMustafa/openai-applications/fork) | [📝 Report Issues](https://github.com/ENGMohamedMustafa/openai-applications/issues)
+**Create Amazing AI Art Today! 🎨✨**
+
+*Made with ❤️ by the AI Art Community*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
